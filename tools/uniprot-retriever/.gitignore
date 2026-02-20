@@ -1,0 +1,26 @@
+﻿# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Output files
+*.fasta
+*.json
+*.tsv
+*.xml
+uniprot_retrieval.log
+test_*.fasta
+output/
+results/
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db

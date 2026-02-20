@@ -1,0 +1,7 @@
+# Example protein IDs for testing
+# RG4-Binding Proteins
+P19338
+P09651
+Q9H2U1
+P35637
+P06748
